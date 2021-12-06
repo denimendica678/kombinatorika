@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\kombinatorika\kombinatorika\bin\Debug\kombinatorika.exe.config
+C:\Users\ucenik\source\repos\kombinatorika\kombinatorika\bin\Debug\kombinatorika.exe
+C:\Users\ucenik\source\repos\kombinatorika\kombinatorika\bin\Debug\kombinatorika.pdb
+C:\Users\ucenik\source\repos\kombinatorika\kombinatorika\obj\Debug\kombinatorika.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\kombinatorika\kombinatorika\obj\Debug\kombinatorika.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\kombinatorika\kombinatorika\obj\Debug\kombinatorika.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\kombinatorika\kombinatorika\obj\Debug\kombinatorika.exe
+C:\Users\ucenik\source\repos\kombinatorika\kombinatorika\obj\Debug\kombinatorika.pdb
